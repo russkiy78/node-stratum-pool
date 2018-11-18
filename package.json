@@ -14,17 +14,10 @@
     ],
     "license": "GPL-2.0",
     "author": "Matthew Little",
-    "contributors": [
-        "devnulled",
-        "foxer666",
-        "vekexasia",
-        "TheSeven",
-        "Kris Klosterman"
-    ],
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bubasik/node-stratum-pool.git"
+        "url": "https://github.com/russkiy78/node-stratum-pool.git"
     },
     "dependencies": {
         "equihashverify": "git+https://github.com/NickRHill/equihashverify.git",
